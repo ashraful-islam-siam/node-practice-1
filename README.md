@@ -1,3 +1,1 @@
-# node-3pkzxh
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-3pkzxh)
+#This is is my first node practice
